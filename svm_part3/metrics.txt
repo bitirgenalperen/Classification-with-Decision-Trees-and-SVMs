@@ -1,0 +1,292 @@
+SVM for fashion
+SVM process starting for fashion
+kernel=> poly  -  degree=>  2 c=>  0.01  -  gamma=>  1e-05  -  -- accuracy =  0.510000
+kernel=> poly  -  degree=>  2 c=>  0.01  -  gamma=>  0.0001  -  -- accuracy =  0.510000
+kernel=> poly  -  degree=>  2 c=>  0.01  -  gamma=>  0.001  -  -- accuracy =  0.510000
+kernel=> poly  -  degree=>  2 c=>  0.01  -  gamma=>  0.01  -  -- accuracy =  0.510000
+kernel=> poly  -  degree=>  2 c=>  0.01  -  gamma=>  0.1  -  -- accuracy =  0.793333
+kernel=> poly  -  degree=>  2 c=>  0.01  -  gamma=>  1.0  -  -- accuracy =  0.859333
+kernel=> poly  -  degree=>  2 c=>  0.01  -  gamma=>  10.0  -  -- accuracy =  0.858667
+kernel=> poly  -  degree=>  2 c=>  0.01  -  gamma=>  100.0  -  -- accuracy =  0.858667
+kernel=> poly  -  degree=>  2 c=>  0.1  -  gamma=>  1e-05  -  -- accuracy =  0.510000
+kernel=> poly  -  degree=>  2 c=>  0.1  -  gamma=>  0.0001  -  -- accuracy =  0.510000
+kernel=> poly  -  degree=>  2 c=>  0.1  -  gamma=>  0.001  -  -- accuracy =  0.510000
+kernel=> poly  -  degree=>  2 c=>  0.1  -  gamma=>  0.01  -  -- accuracy =  0.731333
+kernel=> poly  -  degree=>  2 c=>  0.1  -  gamma=>  0.1  -  -- accuracy =  0.873333
+kernel=> poly  -  degree=>  2 c=>  0.1  -  gamma=>  1.0  -  -- accuracy =  0.858667
+kernel=> poly  -  degree=>  2 c=>  0.1  -  gamma=>  10.0  -  -- accuracy =  0.858667
+kernel=> poly  -  degree=>  2 c=>  0.1  -  gamma=>  100.0  -  -- accuracy =  0.858667
+kernel=> poly  -  degree=>  2 c=>  1.0  -  gamma=>  1e-05  -  -- accuracy =  0.510000
+kernel=> poly  -  degree=>  2 c=>  1.0  -  gamma=>  0.0001  -  -- accuracy =  0.510000
+kernel=> poly  -  degree=>  2 c=>  1.0  -  gamma=>  0.001  -  -- accuracy =  0.510000
+kernel=> poly  -  degree=>  2 c=>  1.0  -  gamma=>  0.01  -  -- accuracy =  0.793333
+kernel=> poly  -  degree=>  2 c=>  1.0  -  gamma=>  0.1  -  -- accuracy =  0.859333
+kernel=> poly  -  degree=>  2 c=>  1.0  -  gamma=>  1.0  -  -- accuracy =  0.858667
+kernel=> poly  -  degree=>  2 c=>  1.0  -  gamma=>  10.0  -  -- accuracy =  0.858667
+kernel=> poly  -  degree=>  2 c=>  1.0  -  gamma=>  100.0  -  -- accuracy =  0.858667
+kernel=> poly  -  degree=>  2 c=>  10.0  -  gamma=>  1e-05  -  -- accuracy =  0.510000
+kernel=> poly  -  degree=>  2 c=>  10.0  -  gamma=>  0.0001  -  -- accuracy =  0.510000
+kernel=> poly  -  degree=>  2 c=>  10.0  -  gamma=>  0.001  -  -- accuracy =  0.731333
+kernel=> poly  -  degree=>  2 c=>  10.0  -  gamma=>  0.01  -  -- accuracy =  0.873333
+kernel=> poly  -  degree=>  2 c=>  10.0  -  gamma=>  0.1  -  -- accuracy =  0.858667
+kernel=> poly  -  degree=>  2 c=>  10.0  -  gamma=>  1.0  -  -- accuracy =  0.858667
+kernel=> poly  -  degree=>  2 c=>  10.0  -  gamma=>  10.0  -  -- accuracy =  0.858667
+kernel=> poly  -  degree=>  2 c=>  10.0  -  gamma=>  100.0  -  -- accuracy =  0.858667
+kernel=> poly  -  degree=>  2 c=>  100.0  -  gamma=>  1e-05  -  -- accuracy =  0.510000
+kernel=> poly  -  degree=>  2 c=>  100.0  -  gamma=>  0.0001  -  -- accuracy =  0.510000
+kernel=> poly  -  degree=>  2 c=>  100.0  -  gamma=>  0.001  -  -- accuracy =  0.793333
+kernel=> poly  -  degree=>  2 c=>  100.0  -  gamma=>  0.01  -  -- accuracy =  0.859333
+kernel=> poly  -  degree=>  2 c=>  100.0  -  gamma=>  0.1  -  -- accuracy =  0.858667
+kernel=> poly  -  degree=>  2 c=>  100.0  -  gamma=>  1.0  -  -- accuracy =  0.858667
+kernel=> poly  -  degree=>  2 c=>  100.0  -  gamma=>  10.0  -  -- accuracy =  0.858667
+kernel=> poly  -  degree=>  2 c=>  100.0  -  gamma=>  100.0  -  -- accuracy =  0.858667
+kernel=> poly  -  degree=>  3 c=>  0.01  -  gamma=>  1e-05  -  -- accuracy =  0.510000
+kernel=> poly  -  degree=>  3 c=>  0.01  -  gamma=>  0.0001  -  -- accuracy =  0.510000
+kernel=> poly  -  degree=>  3 c=>  0.01  -  gamma=>  0.001  -  -- accuracy =  0.510000
+kernel=> poly  -  degree=>  3 c=>  0.01  -  gamma=>  0.01  -  -- accuracy =  0.562000
+kernel=> poly  -  degree=>  3 c=>  0.01  -  gamma=>  0.1  -  -- accuracy =  0.875333
+kernel=> poly  -  degree=>  3 c=>  0.01  -  gamma=>  1.0  -  -- accuracy =  0.867333
+kernel=> poly  -  degree=>  3 c=>  0.01  -  gamma=>  10.0  -  -- accuracy =  0.867333
+kernel=> poly  -  degree=>  3 c=>  0.01  -  gamma=>  100.0  -  -- accuracy =  0.867333
+kernel=> poly  -  degree=>  3 c=>  0.1  -  gamma=>  1e-05  -  -- accuracy =  0.510000
+kernel=> poly  -  degree=>  3 c=>  0.1  -  gamma=>  0.0001  -  -- accuracy =  0.510000
+kernel=> poly  -  degree=>  3 c=>  0.1  -  gamma=>  0.001  -  -- accuracy =  0.510000
+kernel=> poly  -  degree=>  3 c=>  0.1  -  gamma=>  0.01  -  -- accuracy =  0.741333
+kernel=> poly  -  degree=>  3 c=>  0.1  -  gamma=>  0.1  -  -- accuracy =  0.867333
+kernel=> poly  -  degree=>  3 c=>  0.1  -  gamma=>  1.0  -  -- accuracy =  0.867333
+kernel=> poly  -  degree=>  3 c=>  0.1  -  gamma=>  10.0  -  -- accuracy =  0.867333
+kernel=> poly  -  degree=>  3 c=>  0.1  -  gamma=>  100.0  -  -- accuracy =  0.867333
+kernel=> poly  -  degree=>  3 c=>  1.0  -  gamma=>  1e-05  -  -- accuracy =  0.510000
+kernel=> poly  -  degree=>  3 c=>  1.0  -  gamma=>  0.0001  -  -- accuracy =  0.510000
+kernel=> poly  -  degree=>  3 c=>  1.0  -  gamma=>  0.001  -  -- accuracy =  0.510000
+kernel=> poly  -  degree=>  3 c=>  1.0  -  gamma=>  0.01  -  -- accuracy =  0.812667
+kernel=> poly  -  degree=>  3 c=>  1.0  -  gamma=>  0.1  -  -- accuracy =  0.867333
+kernel=> poly  -  degree=>  3 c=>  1.0  -  gamma=>  1.0  -  -- accuracy =  0.867333
+kernel=> poly  -  degree=>  3 c=>  1.0  -  gamma=>  10.0  -  -- accuracy =  0.867333
+kernel=> poly  -  degree=>  3 c=>  1.0  -  gamma=>  100.0  -  -- accuracy =  0.867333
+kernel=> poly  -  degree=>  3 c=>  10.0  -  gamma=>  1e-05  -  -- accuracy =  0.510000
+kernel=> poly  -  degree=>  3 c=>  10.0  -  gamma=>  0.0001  -  -- accuracy =  0.510000
+kernel=> poly  -  degree=>  3 c=>  10.0  -  gamma=>  0.001  -  -- accuracy =  0.562000
+kernel=> poly  -  degree=>  3 c=>  10.0  -  gamma=>  0.01  -  -- accuracy =  0.875333
+kernel=> poly  -  degree=>  3 c=>  10.0  -  gamma=>  0.1  -  -- accuracy =  0.867333
+kernel=> poly  -  degree=>  3 c=>  10.0  -  gamma=>  1.0  -  -- accuracy =  0.867333
+kernel=> poly  -  degree=>  3 c=>  10.0  -  gamma=>  10.0  -  -- accuracy =  0.867333
+kernel=> poly  -  degree=>  3 c=>  10.0  -  gamma=>  100.0  -  -- accuracy =  0.867333
+kernel=> poly  -  degree=>  3 c=>  100.0  -  gamma=>  1e-05  -  -- accuracy =  0.510000
+kernel=> poly  -  degree=>  3 c=>  100.0  -  gamma=>  0.0001  -  -- accuracy =  0.510000
+kernel=> poly  -  degree=>  3 c=>  100.0  -  gamma=>  0.001  -  -- accuracy =  0.741333
+kernel=> poly  -  degree=>  3 c=>  100.0  -  gamma=>  0.01  -  -- accuracy =  0.867333
+kernel=> poly  -  degree=>  3 c=>  100.0  -  gamma=>  0.1  -  -- accuracy =  0.867333
+kernel=> poly  -  degree=>  3 c=>  100.0  -  gamma=>  1.0  -  -- accuracy =  0.867333
+kernel=> poly  -  degree=>  3 c=>  100.0  -  gamma=>  10.0  -  -- accuracy =  0.867333
+kernel=> poly  -  degree=>  3 c=>  100.0  -  gamma=>  100.0  -  -- accuracy =  0.867333
+kernel=> poly  -  degree=>  4 c=>  0.01  -  gamma=>  1e-05  -  -- accuracy =  0.510000
+kernel=> poly  -  degree=>  4 c=>  0.01  -  gamma=>  0.0001  -  -- accuracy =  0.510000
+kernel=> poly  -  degree=>  4 c=>  0.01  -  gamma=>  0.001  -  -- accuracy =  0.510000
+kernel=> poly  -  degree=>  4 c=>  0.01  -  gamma=>  0.01  -  -- accuracy =  0.624000
+kernel=> poly  -  degree=>  4 c=>  0.01  -  gamma=>  0.1  -  -- accuracy =  0.879333
+kernel=> poly  -  degree=>  4 c=>  0.01  -  gamma=>  1.0  -  -- accuracy =  0.876000
+kernel=> poly  -  degree=>  4 c=>  0.01  -  gamma=>  10.0  -  -- accuracy =  0.876000
+kernel=> poly  -  degree=>  4 c=>  0.01  -  gamma=>  100.0  -  -- accuracy =  0.876000
+kernel=> poly  -  degree=>  4 c=>  0.1  -  gamma=>  1e-05  -  -- accuracy =  0.510000
+kernel=> poly  -  degree=>  4 c=>  0.1  -  gamma=>  0.0001  -  -- accuracy =  0.510000
+kernel=> poly  -  degree=>  4 c=>  0.1  -  gamma=>  0.001  -  -- accuracy =  0.510000
+kernel=> poly  -  degree=>  4 c=>  0.1  -  gamma=>  0.01  -  -- accuracy =  0.746667
+kernel=> poly  -  degree=>  4 c=>  0.1  -  gamma=>  0.1  -  -- accuracy =  0.876000
+kernel=> poly  -  degree=>  4 c=>  0.1  -  gamma=>  1.0  -  -- accuracy =  0.876000
+kernel=> poly  -  degree=>  4 c=>  0.1  -  gamma=>  10.0  -  -- accuracy =  0.876000
+kernel=> poly  -  degree=>  4 c=>  0.1  -  gamma=>  100.0  -  -- accuracy =  0.876000
+kernel=> poly  -  degree=>  4 c=>  1.0  -  gamma=>  1e-05  -  -- accuracy =  0.510000
+kernel=> poly  -  degree=>  4 c=>  1.0  -  gamma=>  0.0001  -  -- accuracy =  0.510000
+kernel=> poly  -  degree=>  4 c=>  1.0  -  gamma=>  0.001  -  -- accuracy =  0.510000
+kernel=> poly  -  degree=>  4 c=>  1.0  -  gamma=>  0.01  -  -- accuracy =  0.815333
+kernel=> poly  -  degree=>  4 c=>  1.0  -  gamma=>  0.1  -  -- accuracy =  0.876000
+kernel=> poly  -  degree=>  4 c=>  1.0  -  gamma=>  1.0  -  -- accuracy =  0.876000
+kernel=> poly  -  degree=>  4 c=>  1.0  -  gamma=>  10.0  -  -- accuracy =  0.876000
+kernel=> poly  -  degree=>  4 c=>  1.0  -  gamma=>  100.0  -  -- accuracy =  0.876000
+kernel=> poly  -  degree=>  4 c=>  10.0  -  gamma=>  1e-05  -  -- accuracy =  0.510000
+kernel=> poly  -  degree=>  4 c=>  10.0  -  gamma=>  0.0001  -  -- accuracy =  0.510000
+kernel=> poly  -  degree=>  4 c=>  10.0  -  gamma=>  0.001  -  -- accuracy =  0.510000
+kernel=> poly  -  degree=>  4 c=>  10.0  -  gamma=>  0.01  -  -- accuracy =  0.874000
+kernel=> poly  -  degree=>  4 c=>  10.0  -  gamma=>  0.1  -  -- accuracy =  0.876000
+kernel=> poly  -  degree=>  4 c=>  10.0  -  gamma=>  1.0  -  -- accuracy =  0.876000
+kernel=> poly  -  degree=>  4 c=>  10.0  -  gamma=>  10.0  -  -- accuracy =  0.876000
+kernel=> poly  -  degree=>  4 c=>  10.0  -  gamma=>  100.0  -  -- accuracy =  0.876000
+kernel=> poly  -  degree=>  4 c=>  100.0  -  gamma=>  1e-05  -  -- accuracy =  0.510000
+kernel=> poly  -  degree=>  4 c=>  100.0  -  gamma=>  0.0001  -  -- accuracy =  0.510000
+kernel=> poly  -  degree=>  4 c=>  100.0  -  gamma=>  0.001  -  -- accuracy =  0.624000
+kernel=> poly  -  degree=>  4 c=>  100.0  -  gamma=>  0.01  -  -- accuracy =  0.879333
+kernel=> poly  -  degree=>  4 c=>  100.0  -  gamma=>  0.1  -  -- accuracy =  0.876000
+kernel=> poly  -  degree=>  4 c=>  100.0  -  gamma=>  1.0  -  -- accuracy =  0.876000
+kernel=> poly  -  degree=>  4 c=>  100.0  -  gamma=>  10.0  -  -- accuracy =  0.876000
+kernel=> poly  -  degree=>  4 c=>  100.0  -  gamma=>  100.0  -  -- accuracy =  0.876000
+kernel=> poly  -  degree=>  5 c=>  0.01  -  gamma=>  1e-05  -  -- accuracy =  0.510000
+kernel=> poly  -  degree=>  5 c=>  0.01  -  gamma=>  0.0001  -  -- accuracy =  0.510000
+kernel=> poly  -  degree=>  5 c=>  0.01  -  gamma=>  0.001  -  -- accuracy =  0.510000
+kernel=> poly  -  degree=>  5 c=>  0.01  -  gamma=>  0.01  -  -- accuracy =  0.642667
+kernel=> poly  -  degree=>  5 c=>  0.01  -  gamma=>  0.1  -  -- accuracy =  0.870667
+kernel=> poly  -  degree=>  5 c=>  0.01  -  gamma=>  1.0  -  -- accuracy =  0.870667
+kernel=> poly  -  degree=>  5 c=>  0.01  -  gamma=>  10.0  -  -- accuracy =  0.870667
+kernel=> poly  -  degree=>  5 c=>  0.01  -  gamma=>  100.0  -  -- accuracy =  0.870667
+kernel=> poly  -  degree=>  5 c=>  0.1  -  gamma=>  1e-05  -  -- accuracy =  0.510000
+kernel=> poly  -  degree=>  5 c=>  0.1  -  gamma=>  0.0001  -  -- accuracy =  0.510000
+kernel=> poly  -  degree=>  5 c=>  0.1  -  gamma=>  0.001  -  -- accuracy =  0.510000
+kernel=> poly  -  degree=>  5 c=>  0.1  -  gamma=>  0.01  -  -- accuracy =  0.744000
+kernel=> poly  -  degree=>  5 c=>  0.1  -  gamma=>  0.1  -  -- accuracy =  0.870667
+kernel=> poly  -  degree=>  5 c=>  0.1  -  gamma=>  1.0  -  -- accuracy =  0.870667
+kernel=> poly  -  degree=>  5 c=>  0.1  -  gamma=>  10.0  -  -- accuracy =  0.870667
+kernel=> poly  -  degree=>  5 c=>  0.1  -  gamma=>  100.0  -  -- accuracy =  0.870667
+kernel=> poly  -  degree=>  5 c=>  1.0  -  gamma=>  1e-05  -  -- accuracy =  0.510000
+kernel=> poly  -  degree=>  5 c=>  1.0  -  gamma=>  0.0001  -  -- accuracy =  0.510000
+kernel=> poly  -  degree=>  5 c=>  1.0  -  gamma=>  0.001  -  -- accuracy =  0.510000
+kernel=> poly  -  degree=>  5 c=>  1.0  -  gamma=>  0.01  -  -- accuracy =  0.808667
+kernel=> poly  -  degree=>  5 c=>  1.0  -  gamma=>  0.1  -  -- accuracy =  0.870667
+kernel=> poly  -  degree=>  5 c=>  1.0  -  gamma=>  1.0  -  -- accuracy =  0.870667
+kernel=> poly  -  degree=>  5 c=>  1.0  -  gamma=>  10.0  -  -- accuracy =  0.870667
+kernel=> poly  -  degree=>  5 c=>  1.0  -  gamma=>  100.0  -  -- accuracy =  0.870667
+kernel=> poly  -  degree=>  5 c=>  10.0  -  gamma=>  1e-05  -  -- accuracy =  0.510000
+kernel=> poly  -  degree=>  5 c=>  10.0  -  gamma=>  0.0001  -  -- accuracy =  0.510000
+kernel=> poly  -  degree=>  5 c=>  10.0  -  gamma=>  0.001  -  -- accuracy =  0.510000
+kernel=> poly  -  degree=>  5 c=>  10.0  -  gamma=>  0.01  -  -- accuracy =  0.869333
+kernel=> poly  -  degree=>  5 c=>  10.0  -  gamma=>  0.1  -  -- accuracy =  0.870667
+kernel=> poly  -  degree=>  5 c=>  10.0  -  gamma=>  1.0  -  -- accuracy =  0.870667
+kernel=> poly  -  degree=>  5 c=>  10.0  -  gamma=>  10.0  -  -- accuracy =  0.870667
+kernel=> poly  -  degree=>  5 c=>  10.0  -  gamma=>  100.0  -  -- accuracy =  0.870667
+kernel=> poly  -  degree=>  5 c=>  100.0  -  gamma=>  1e-05  -  -- accuracy =  0.510000
+kernel=> poly  -  degree=>  5 c=>  100.0  -  gamma=>  0.0001  -  -- accuracy =  0.510000
+kernel=> poly  -  degree=>  5 c=>  100.0  -  gamma=>  0.001  -  -- accuracy =  0.510000
+kernel=> poly  -  degree=>  5 c=>  100.0  -  gamma=>  0.01  -  -- accuracy =  0.873333
+kernel=> poly  -  degree=>  5 c=>  100.0  -  gamma=>  0.1  -  -- accuracy =  0.870667
+kernel=> poly  -  degree=>  5 c=>  100.0  -  gamma=>  1.0  -  -- accuracy =  0.870667
+kernel=> poly  -  degree=>  5 c=>  100.0  -  gamma=>  10.0  -  -- accuracy =  0.870667
+kernel=> poly  -  degree=>  5 c=>  100.0  -  gamma=>  100.0  -  -- accuracy =  0.870667
+kernel=> poly  -  degree=>  6 c=>  0.01  -  gamma=>  1e-05  -  -- accuracy =  0.510000
+kernel=> poly  -  degree=>  6 c=>  0.01  -  gamma=>  0.0001  -  -- accuracy =  0.510000
+kernel=> poly  -  degree=>  6 c=>  0.01  -  gamma=>  0.001  -  -- accuracy =  0.510000
+kernel=> poly  -  degree=>  6 c=>  0.01  -  gamma=>  0.01  -  -- accuracy =  0.640000
+kernel=> poly  -  degree=>  6 c=>  0.01  -  gamma=>  0.1  -  -- accuracy =  0.854667
+kernel=> poly  -  degree=>  6 c=>  0.01  -  gamma=>  1.0  -  -- accuracy =  0.854667
+kernel=> poly  -  degree=>  6 c=>  0.01  -  gamma=>  10.0  -  -- accuracy =  0.854667
+kernel=> poly  -  degree=>  6 c=>  0.01  -  gamma=>  100.0  -  -- accuracy =  0.854667
+kernel=> poly  -  degree=>  6 c=>  0.1  -  gamma=>  1e-05  -  -- accuracy =  0.510000
+kernel=> poly  -  degree=>  6 c=>  0.1  -  gamma=>  0.0001  -  -- accuracy =  0.510000
+kernel=> poly  -  degree=>  6 c=>  0.1  -  gamma=>  0.001  -  -- accuracy =  0.510000
+kernel=> poly  -  degree=>  6 c=>  0.1  -  gamma=>  0.01  -  -- accuracy =  0.738667
+kernel=> poly  -  degree=>  6 c=>  0.1  -  gamma=>  0.1  -  -- accuracy =  0.854667
+kernel=> poly  -  degree=>  6 c=>  0.1  -  gamma=>  1.0  -  -- accuracy =  0.854667
+kernel=> poly  -  degree=>  6 c=>  0.1  -  gamma=>  10.0  -  -- accuracy =  0.854667
+kernel=> poly  -  degree=>  6 c=>  0.1  -  gamma=>  100.0  -  -- accuracy =  0.854667
+kernel=> poly  -  degree=>  6 c=>  1.0  -  gamma=>  1e-05  -  -- accuracy =  0.510000
+kernel=> poly  -  degree=>  6 c=>  1.0  -  gamma=>  0.0001  -  -- accuracy =  0.510000
+kernel=> poly  -  degree=>  6 c=>  1.0  -  gamma=>  0.001  -  -- accuracy =  0.510000
+kernel=> poly  -  degree=>  6 c=>  1.0  -  gamma=>  0.01  -  -- accuracy =  0.804667
+kernel=> poly  -  degree=>  6 c=>  1.0  -  gamma=>  0.1  -  -- accuracy =  0.854667
+kernel=> poly  -  degree=>  6 c=>  1.0  -  gamma=>  1.0  -  -- accuracy =  0.854667
+kernel=> poly  -  degree=>  6 c=>  1.0  -  gamma=>  10.0  -  -- accuracy =  0.854667
+kernel=> poly  -  degree=>  6 c=>  1.0  -  gamma=>  100.0  -  -- accuracy =  0.854667
+kernel=> poly  -  degree=>  6 c=>  10.0  -  gamma=>  1e-05  -  -- accuracy =  0.510000
+kernel=> poly  -  degree=>  6 c=>  10.0  -  gamma=>  0.0001  -  -- accuracy =  0.510000
+kernel=> poly  -  degree=>  6 c=>  10.0  -  gamma=>  0.001  -  -- accuracy =  0.510000
+kernel=> poly  -  degree=>  6 c=>  10.0  -  gamma=>  0.01  -  -- accuracy =  0.864000
+kernel=> poly  -  degree=>  6 c=>  10.0  -  gamma=>  0.1  -  -- accuracy =  0.854667
+kernel=> poly  -  degree=>  6 c=>  10.0  -  gamma=>  1.0  -  -- accuracy =  0.854667
+kernel=> poly  -  degree=>  6 c=>  10.0  -  gamma=>  10.0  -  -- accuracy =  0.854667
+kernel=> poly  -  degree=>  6 c=>  10.0  -  gamma=>  100.0  -  -- accuracy =  0.854667
+kernel=> poly  -  degree=>  6 c=>  100.0  -  gamma=>  1e-05  -  -- accuracy =  0.510000
+kernel=> poly  -  degree=>  6 c=>  100.0  -  gamma=>  0.0001  -  -- accuracy =  0.510000
+kernel=> poly  -  degree=>  6 c=>  100.0  -  gamma=>  0.001  -  -- accuracy =  0.510000
+kernel=> poly  -  degree=>  6 c=>  100.0  -  gamma=>  0.01  -  -- accuracy =  0.861333
+kernel=> poly  -  degree=>  6 c=>  100.0  -  gamma=>  0.1  -  -- accuracy =  0.854667
+kernel=> poly  -  degree=>  6 c=>  100.0  -  gamma=>  1.0  -  -- accuracy =  0.854667
+kernel=> poly  -  degree=>  6 c=>  100.0  -  gamma=>  10.0  -  -- accuracy =  0.854667
+kernel=> poly  -  degree=>  6 c=>  100.0  -  gamma=>  100.0  -  -- accuracy =  0.854667
+kernel=> linear  -  c=>  0.01  -  -- accuracy =  0.762667
+kernel=> linear  -  c=>  0.1  -  -- accuracy =  0.803333
+kernel=> linear  -  c=>  1.0  -  -- accuracy =  0.802000
+kernel=> linear  -  c=>  10.0  -  -- accuracy =  0.756000
+kernel=> linear  -  c=>  100.0  -  -- accuracy =  0.730000
+kernel=>  rbf  -  c=>  0.01  -  gamma=>  1e-05  -  -- accuracy =  0.510000
+kernel=>  rbf  -  c=>  0.01  -  gamma=>  0.0001  -  -- accuracy =  0.510000
+kernel=>  rbf  -  c=>  0.01  -  gamma=>  0.001  -  -- accuracy =  0.510000
+kernel=>  rbf  -  c=>  0.01  -  gamma=>  0.01  -  -- accuracy =  0.510000
+kernel=>  rbf  -  c=>  0.01  -  gamma=>  0.1  -  -- accuracy =  0.510000
+kernel=>  rbf  -  c=>  0.01  -  gamma=>  1.0  -  -- accuracy =  0.510000
+kernel=>  rbf  -  c=>  0.01  -  gamma=>  10.0  -  -- accuracy =  0.510000
+kernel=>  rbf  -  c=>  0.01  -  gamma=>  100.0  -  -- accuracy =  0.510000
+kernel=>  rbf  -  c=>  0.1  -  gamma=>  1e-05  -  -- accuracy =  0.510000
+kernel=>  rbf  -  c=>  0.1  -  gamma=>  0.0001  -  -- accuracy =  0.510000
+kernel=>  rbf  -  c=>  0.1  -  gamma=>  0.001  -  -- accuracy =  0.510000
+kernel=>  rbf  -  c=>  0.1  -  gamma=>  0.01  -  -- accuracy =  0.737333
+kernel=>  rbf  -  c=>  0.1  -  gamma=>  0.1  -  -- accuracy =  0.510667
+kernel=>  rbf  -  c=>  0.1  -  gamma=>  1.0  -  -- accuracy =  0.510000
+kernel=>  rbf  -  c=>  0.1  -  gamma=>  10.0  -  -- accuracy =  0.510000
+kernel=>  rbf  -  c=>  0.1  -  gamma=>  100.0  -  -- accuracy =  0.510000
+kernel=>  rbf  -  c=>  1.0  -  gamma=>  1e-05  -  -- accuracy =  0.510000
+kernel=>  rbf  -  c=>  1.0  -  gamma=>  0.0001  -  -- accuracy =  0.510000
+kernel=>  rbf  -  c=>  1.0  -  gamma=>  0.001  -  -- accuracy =  0.734000
+kernel=>  rbf  -  c=>  1.0  -  gamma=>  0.01  -  -- accuracy =  0.822667
+kernel=>  rbf  -  c=>  1.0  -  gamma=>  0.1  -  -- accuracy =  0.896667
+kernel=>  rbf  -  c=>  1.0  -  gamma=>  1.0  -  -- accuracy =  0.510000
+kernel=>  rbf  -  c=>  1.0  -  gamma=>  10.0  -  -- accuracy =  0.510000
+kernel=>  rbf  -  c=>  1.0  -  gamma=>  100.0  -  -- accuracy =  0.510000
+kernel=>  rbf  -  c=>  10.0  -  gamma=>  1e-05  -  -- accuracy =  0.510000
+kernel=>  rbf  -  c=>  10.0  -  gamma=>  0.0001  -  -- accuracy =  0.735333
+kernel=>  rbf  -  c=>  10.0  -  gamma=>  0.001  -  -- accuracy =  0.792000
+kernel=>  rbf  -  c=>  10.0  -  gamma=>  0.01  -  -- accuracy =  0.884000
+kernel=>  rbf  -  c=>  10.0  -  gamma=>  0.1  -  -- accuracy =  0.901333
+kernel=>  rbf  -  c=>  10.0  -  gamma=>  1.0  -  -- accuracy =  0.510000
+kernel=>  rbf  -  c=>  10.0  -  gamma=>  10.0  -  -- accuracy =  0.510000
+kernel=>  rbf  -  c=>  10.0  -  gamma=>  100.0  -  -- accuracy =  0.510000
+kernel=>  rbf  -  c=>  100.0  -  gamma=>  1e-05  -  -- accuracy =  0.735333
+kernel=>  rbf  -  c=>  100.0  -  gamma=>  0.0001  -  -- accuracy =  0.774667
+kernel=>  rbf  -  c=>  100.0  -  gamma=>  0.001  -  -- accuracy =  0.847333
+kernel=>  rbf  -  c=>  100.0  -  gamma=>  0.01  -  -- accuracy =  0.877333
+kernel=>  rbf  -  c=>  100.0  -  gamma=>  0.1  -  -- accuracy =  0.901333
+kernel=>  rbf  -  c=>  100.0  -  gamma=>  1.0  -  -- accuracy =  0.510000
+kernel=>  rbf  -  c=>  100.0  -  gamma=>  10.0  -  -- accuracy =  0.510000
+kernel=>  rbf  -  c=>  100.0  -  gamma=>  100.0  -  -- accuracy =  0.510000
+kernel=>  sigmoid  -  c=>  0.01  -  gamma=>  1e-05  -  -- accuracy =  0.510000
+kernel=>  sigmoid  -  c=>  0.01  -  gamma=>  0.0001  -  -- accuracy =  0.510000
+kernel=>  sigmoid  -  c=>  0.01  -  gamma=>  0.001  -  -- accuracy =  0.510000
+kernel=>  sigmoid  -  c=>  0.01  -  gamma=>  0.01  -  -- accuracy =  0.510000
+kernel=>  sigmoid  -  c=>  0.01  -  gamma=>  0.1  -  -- accuracy =  0.510000
+kernel=>  sigmoid  -  c=>  0.01  -  gamma=>  1.0  -  -- accuracy =  0.510000
+kernel=>  sigmoid  -  c=>  0.01  -  gamma=>  10.0  -  -- accuracy =  0.510000
+kernel=>  sigmoid  -  c=>  0.01  -  gamma=>  100.0  -  -- accuracy =  0.510000
+kernel=>  sigmoid  -  c=>  0.1  -  gamma=>  1e-05  -  -- accuracy =  0.510000
+kernel=>  sigmoid  -  c=>  0.1  -  gamma=>  0.0001  -  -- accuracy =  0.510000
+kernel=>  sigmoid  -  c=>  0.1  -  gamma=>  0.001  -  -- accuracy =  0.510000
+kernel=>  sigmoid  -  c=>  0.1  -  gamma=>  0.01  -  -- accuracy =  0.510000
+kernel=>  sigmoid  -  c=>  0.1  -  gamma=>  0.1  -  -- accuracy =  0.510000
+kernel=>  sigmoid  -  c=>  0.1  -  gamma=>  1.0  -  -- accuracy =  0.510000
+kernel=>  sigmoid  -  c=>  0.1  -  gamma=>  10.0  -  -- accuracy =  0.510000
+kernel=>  sigmoid  -  c=>  0.1  -  gamma=>  100.0  -  -- accuracy =  0.510000
+kernel=>  sigmoid  -  c=>  1.0  -  gamma=>  1e-05  -  -- accuracy =  0.510000
+kernel=>  sigmoid  -  c=>  1.0  -  gamma=>  0.0001  -  -- accuracy =  0.510000
+kernel=>  sigmoid  -  c=>  1.0  -  gamma=>  0.001  -  -- accuracy =  0.703333
+kernel=>  sigmoid  -  c=>  1.0  -  gamma=>  0.01  -  -- accuracy =  0.548000
+kernel=>  sigmoid  -  c=>  1.0  -  gamma=>  0.1  -  -- accuracy =  0.510000
+kernel=>  sigmoid  -  c=>  1.0  -  gamma=>  1.0  -  -- accuracy =  0.510000
+kernel=>  sigmoid  -  c=>  1.0  -  gamma=>  10.0  -  -- accuracy =  0.510000
+kernel=>  sigmoid  -  c=>  1.0  -  gamma=>  100.0  -  -- accuracy =  0.510000
+kernel=>  sigmoid  -  c=>  10.0  -  gamma=>  1e-05  -  -- accuracy =  0.510000
+kernel=>  sigmoid  -  c=>  10.0  -  gamma=>  0.0001  -  -- accuracy =  0.706000
+kernel=>  sigmoid  -  c=>  10.0  -  gamma=>  0.001  -  -- accuracy =  0.762667
+kernel=>  sigmoid  -  c=>  10.0  -  gamma=>  0.01  -  -- accuracy =  0.453333
+kernel=>  sigmoid  -  c=>  10.0  -  gamma=>  0.1  -  -- accuracy =  0.510000
+kernel=>  sigmoid  -  c=>  10.0  -  gamma=>  1.0  -  -- accuracy =  0.510000
+kernel=>  sigmoid  -  c=>  10.0  -  gamma=>  10.0  -  -- accuracy =  0.510000
+kernel=>  sigmoid  -  c=>  10.0  -  gamma=>  100.0  -  -- accuracy =  0.510000
+kernel=>  sigmoid  -  c=>  100.0  -  gamma=>  1e-05  -  -- accuracy =  0.706000
+kernel=>  sigmoid  -  c=>  100.0  -  gamma=>  0.0001  -  -- accuracy =  0.762667
+kernel=>  sigmoid  -  c=>  100.0  -  gamma=>  0.001  -  -- accuracy =  0.799333
+kernel=>  sigmoid  -  c=>  100.0  -  gamma=>  0.01  -  -- accuracy =  0.428000
+kernel=>  sigmoid  -  c=>  100.0  -  gamma=>  0.1  -  -- accuracy =  0.510667
+kernel=>  sigmoid  -  c=>  100.0  -  gamma=>  1.0  -  -- accuracy =  0.510000
+kernel=>  sigmoid  -  c=>  100.0  -  gamma=>  10.0  -  -- accuracy =  0.510000
+kernel=>  sigmoid  -  c=>  100.0  -  gamma=>  100.0  -  -- accuracy =  0.510000
+*************************************************************
+Tunned kernel is rbf
+Tunned C 10.0
+Tunned Gamma 0.1
+Resulting test-accuracy with tunned hyper-parameters:  0.884
